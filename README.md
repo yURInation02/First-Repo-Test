@@ -13,3 +13,4 @@ I am planning to journal my progress of learning Git here.
     Each Commit should have a message to describe each change
 
     I am writing this line on GitHub
+    And Im writing this from VScode on my Mac to see how pushing to Github works
