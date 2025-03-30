@@ -11,3 +11,5 @@ I am planning to journal my progress of learning Git here.
         git add --all 
     It is also recommended to add README file in Repo
     Each Commit should have a message to describe each change
+
+    I am writing this line on GitHub
