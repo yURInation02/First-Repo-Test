@@ -14,3 +14,6 @@ I am planning to journal my progress of learning Git here.
 
     I am writing this line on GitHub
     And Im writing this from VScode on my Mac to see how pushing to Github works
+
+3/31/2025
+    I am writing this to test out pushing a new branch to Github repo
